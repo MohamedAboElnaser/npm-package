@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "simple package that log message to the console",
   "main": "index.js",
+  "keywords": [
+    "hi",
+    "hello",
+    "greeting"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MohamedAboElnaser/npm-package.git"
